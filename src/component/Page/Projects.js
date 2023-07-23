@@ -76,6 +76,7 @@ const Projects = () => {
             </div>
           </div>
         ))}
+          <div style={{ borderTop: '1px solid white', marginTop: '17px' }}></div>
       </div>
     </div>
   );

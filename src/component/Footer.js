@@ -14,7 +14,7 @@ const Footer = () => {
       <div className="md:flex md:justify-between md:items-center sm:px-12 px-4 bg-black py-7">
         <h1
           className="lg:text-4xl text-3xl md:mb-0 mb-6 lg:leading-normal font-semibold
-         md:w-2/5"
+         md:w-2/4 "
         >
           <span className="text-teal-400">Contact</span> Me
         </h1>

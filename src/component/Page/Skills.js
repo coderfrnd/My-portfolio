@@ -23,7 +23,7 @@ const Skills = () => {
   return (
     <div className="container mx-auto mt-2">
       <div className="p-auto h-auto w-auto m-4 mt-0 lg:mt-8 lg:p-6 lg:w-[1460px] lg:h-[1000px] lg:ml-[40px] text-white bar">
-        <h2 className="lg:text-3xl md:text-4xl font-roboto flex justify-center skell">Skills</h2>
+        <h2 className="  text-4xl xl:text-4xl sm:text-4xl font-roboto flex justify-center  skell">Skills</h2>
         <div className="xl:flex xl:flex-row xl:m-4">
           <div className="every xl:w-[50%]">
             {skills.map((skill, index) => (
