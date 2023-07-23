@@ -1,0 +1,20 @@
+@media (max-width: 639px) {
+    /* Add your custom styles here for smaller screens */
+    /* For example, you can adjust the size and margins of elements */
+   .stro{
+    /* display: none; */
+    /* height: 18px; */
+    /* display: block; */
+    color: white;
+    width: auto;
+    display: flex;
+    /* overflow: hidden; */
+   }
+   .abh{
+    width: auto;
+    height: auto;
+    margin: 0%;
+    margin-top: 4%;
+   }
+   
+}

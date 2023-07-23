@@ -1,0 +1,55 @@
+@media (max-width: 639px) {
+    /* Add your custom styles here for smaller screens */
+    /* For example, you can adjust the size and margins of elements */
+   .str{
+    display:flex;
+    flex-direction:column;
+    width:auto;
+   height: auto;
+    align-items: center;
+   /* margin-top: 35%; */
+   }
+   .thes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0;
+    width: auto;
+    height: auto;
+   }
+   .heading{
+    margin:0;
+    width: auto;
+    display: flex;
+    /* height: 400px; */
+    height: auto;
+    /* align-items: center; */
+    justify-content: center;
+   }
+   .heading h1{
+    display: flex;
+    /* align-items: center; */
+    margin-top: auto;
+    justify-content: center;
+    height: auto;
+    width: auto;
+   }
+   .heading p{
+    display: flex;
+    /* align-items: center; */
+    justify-content: start;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    width: auto;
+    height: auto;
+    
+   }
+   .ikon{
+    align-items: center;
+    /* display: flex; */
+    /* height: 100px; */
+    justify-content: center;
+    width: auto;
+    height: auto;
+   }
+  }

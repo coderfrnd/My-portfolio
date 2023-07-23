@@ -1,0 +1,135 @@
+/* Common styles for all screen sizes */
+/* Add your global styles here, if any */
+
+/* Media query for screens with a maximum width of 639px */
+/* @media (max-width: 639px) {
+    .car {
+      display: flex;
+      justify-content: center;
+      height: auto;
+      width: auto;
+    }
+  
+    .res {
+      margin-left: 0;
+      margin-top: 2px;
+      width: auto;
+      height: auto;
+      padding: auto;
+    }
+  
+    .cv {
+      margin-left: 0;
+      width: auto;
+      height: auto;
+    }
+  
+    .edu {
+      height: auto;
+      display: flex;
+      width: auto;
+      flex-direction: column;
+      margin: auto;
+    }
+  
+    .careo {
+      width: auto;
+      margin: auto;
+      padding: 0;
+      margin-left: 0;
+      font-size: larger;
+    }
+  
+    .head {
+      display: flex;
+      justify-content: start;
+      margin-left: 0%;
+    }
+  
+    .education {
+      font-size: x-large;
+      margin-left: 0%;
+    }
+  
+    /* .deg {
+      margin-left: 1rem; */
+      /* margin-left: 0%; */
+    /* } */
+  
+    /* .edu {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 1rem;
+    }
+  
+    
+  
+    .des {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  
+    .aey {
+      margin-left: 23px;
+      font-size: 1.5rem;
+    }
+    .yea{
+        display: flex;
+        flex-direction: column;
+    }
+  
+    .achieve {
+      font-size: x-large;
+    }
+  
+    .boxe {
+      height: auto;
+      display: flex;
+      width: auto;
+      flex-direction: column;
+      margin: auto;
+    }
+  
+    .achievecard {
+      width: auto;
+      height: auto;
+      padding-top: 0%;
+      font-size: larger;
+      margin-top: 0%;
+    }
+  
+    .ment {
+      font-size: x-large;
+    }
+  
+    .certi {
+      height: auto;
+      width: auto;
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+    }
+  
+    .fication {
+      font-size: x-large;
+    }
+  
+    .ach {
+      width: auto;
+      height: auto;
+      padding-top: 0%;
+      font-size: larger;
+      margin-top: 0%;
+    }
+  
+    .certification {
+      font-size: x-large;
+    }
+  
+    .they {
+      margin-top: 0px;
+    }
+  } */
+   

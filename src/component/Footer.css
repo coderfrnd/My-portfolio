@@ -1,0 +1,19 @@
+/* Media query for screens with a maximum width of 639px */
+@media (max-width: 639px) {
+    .dekho {
+      display: flex;
+      flex-direction: column;
+      width: auto;
+      height: auto;
+    }
+    .gmeil,
+    .hub,
+    .res,
+    .force {
+      width: 100%;
+      margin: 6px 0;
+      padding: 0%;
+      /* Add equal margin on top and bottom */
+    }
+  }
+  
