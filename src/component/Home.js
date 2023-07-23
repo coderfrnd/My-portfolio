@@ -53,16 +53,19 @@ const Home = () => {
                 </a>
                    </div>
                    <div className='  w-[60px] mt-4 xl:flex xl:mt-4 xl:w-[90px] '>
-                   <a href="https://www.linkedin.com/in/abhishek-20ei02/" target="_blank" rel="noopener noreferrer" data-tip="LinkedIn">
+                   <a href="https://www.instagram.com/attackerfrnd/" target="_blank" rel="noopener noreferrer" data-tip="Instagram">
                   <FontAwesomeIcon icon={faInstagram}  className=" text-5xl xl:text-7xl text-teal-400  sm:text-6xl" />
                 </a>
                    </div>
                    <div className='  w-[60px] mt-4 xl:flex xl:mt-4 xl:w-[90px] '>
-                   <a href="https://www.linkedin.com/in/abhishek-20ei02/" target="_blank" rel="noopener noreferrer" data-tip="LinkedIn">
+                   <a href="https://github.com/coderfrnd" target="_blank" rel="noopener noreferrer" data-tip="Github">
                   <FontAwesomeIcon icon={faGithub}  className=" text-5xl xl:text-7xl text-teal-400  sm:text-6xl" />
                 </a>
                    </div>
+                   <a href="https://drive.google.com/file/d/1HQuWSaovdWBd_TTpq13QQnXC5mKydLol/view?usp=sharing" target="_blank" rel="noopener noreferrer" data-tip="LinkedIn">
                    <Card name='Resume' icon={faFolder} />
+                   </a>
+                  
                </div> 
         </div>
 
