@@ -62,7 +62,7 @@ const Home = () => {
                   <FontAwesomeIcon icon={faGithub}  className=" text-5xl xl:text-7xl text-teal-400  sm:text-6xl" />
                 </a>
                    </div>
-                   <a href="https://drive.google.com/file/d/1HQuWSaovdWBd_TTpq13QQnXC5mKydLol/view?usp=sharing" target="_blank" rel="noopener noreferrer" data-tip="LinkedIn">
+                   <a href="https://drive.google.com/file/d/1syp8RaP1dziqgyV-Kkc4O1s5efI5g2Ng/view?usp=sharing" target="_blank" rel="noopener noreferrer" data-tip="LinkedIn">
                    <Card name='Resume' icon={faFolder} />
                    </a>
                   
